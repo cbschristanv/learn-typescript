@@ -1,0 +1,13 @@
+====== INSTALLING TYPESCRIPT ON NPM =========
+command: npm install -g TYPESCRIPT
+
+====== COMPILING TYPESCRIPT TO JS =========
+1. run terminal in the same folder for exapmple js/app.ts
+
+2. command: tsc app.ts
+
+3. after that it will create file app.js
+
+OPTIONAL Method if you want to automatically compiled
+1. tsc app.ts -w
+
